@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'code_here', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+    <title>Manifesto - Creative Portfolio Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Download the best Creative Portfolio HTML Template in 2023" />
+    <meta name="author" content="ClaPat Studio">
+    <meta charset="UTF-8" />    
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+    <link href="style.css" rel="stylesheet" />
+    <link href="css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
+   
+</head>
+
+
+<body class="hidden hidden-ball smooth-scroll uppercase-titles" data-primary-color="#8c6144">
+
+    
+    <main>		
+        <!-- Preloader -->
+        <div class="preloader-wrap" data-centerLine="Loading">
+            <div class="outer">
+                <div class="inner">                    
+                    <div class="trackbar">
+                        <div class="preloader-intro">
+                            <span>Loading</span>
+                        </div>
+                        <div class="loadbar"></div>
+                        <div class="percentage-wrapper"><div class="percentage" id="precent"></div></div>
+                    </div>
+                    
+                    <div class="percentage-intro">Please wait, content is loading</div>                     
+                </div>
+            </div>
+        </div>
+        <!--/Preloader -->    
+        
+        <div class="cd-index cd-main-content">
+    
+        <!-- Page Content -->
+        <div id="page-content" class="light-content" data-bgcolor="#0c0c0c">
+            
+            <!-- Header -->
+            <header class="fullscreen-menu invert-header" data-menucolor="#0c0c0c">
+                
+                <div id="header-container">
+                
+                
+                <!-- Logo -->
+                <div id="logo" class="hide-ball">
+                    <a class="ajax-link" data-type="page-transition" href="index-2.html">
+                        <img class="black-logo" src="images/logo.png" alt="ClaPat Logo">
+                        <img class="white-logo" src="images/logo-white.png" alt="ClaPat Logo">
+                    </a>
+                </div>
+                <!--/Logo -->
+                            
+                
+                <!-- Navigation -->
+                <nav> 
+                	<div class="nav-height">
+                        <div class="outer">
+                            <div class="inner">           
+                                <ul data-breakpoint="10025" class="flexnav">
+                                    <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition" href="index-2.html"><div class="before-span"><span data-hover="Home">Home</span></div></a></li>
+                                    <li class="link menu-timeline"><a class="ajax-link active" data-type="page-transition" href="index-showcase-carousel.html"><div class="before-span"><span data-hover="About">Portfolio</span></div></a></li>
+                                    <li class="link menu-timeline"><a class="ajax-link active" data-type="page-transition" href="about.html"><div class="before-span"><span data-hover="About">About</span></div></a></li>
+                                    <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition" href="contact.html"><div class="before-span"><span data-hover="Contact">Contact</span></div></a></li>
+                                </ul>            
+                            </div>
+                        </div> 
+                    </div>          
+                </nav>
+                <!--/Navigation -->
+                
+                
+                <!-- Menu Burger -->
+                <div class="button-wrap right menu burger-lines">
+                    <div class="icon-wrap parallax-wrap">
+                        <div class="button-icon parallax-element">
+                            <div id="burger-wrapper">
+                                <div id="menu-burger">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="button-text sticky right"><span data-hover="Menu">Menu</span></div> 
+                </div>
+                <!--/Menu Burger -->
+            
+                </div>
+            </header>
+
+
+           <!--/Header -->
+            
+            
+            
+            <!-- Content Scroll -->
+            <div id="content-scroll">
+            
+            
+                <!-- Main -->
+                <div id="main">
+                
+                    <!-- Hero Section -->
+                    <div id="hero">
+                        <div id="hero-styles">
+                            <div id="hero-caption" class="content-full-width no-padding-bottom text-align-center subtitle-padding-left">
+                                <div class="inner">                                    
+                                    <h1 class="hero-title caption-timeline"><span><em>L'Excellence</em></span> <span>Abordable</span></h1>
+                                    <div class="hero-subtitle caption-timeline"><span>Démarquez-vous avec notre offre innovante,</span> <span> puissante et à petit prix.</span></div>  
+                                </div>
+                            </div>                                  
+                        </div>
+                    </div>                             
+                    <!--/Hero Section -->   
+                         
+                    
+                    <!-- Main Content -->
+                    <div id="main-content">
+                        <!-- Main Page Content -->
+                        <div id="main-page-content" class="content-max-width">
+                            
+                            
+                            <!-- Row -->
+                            <div class="content-row dark-section" data-bgcolor="#0c0c0c">
+                            
+                                <div class="clipped-image-wrapper">
+                                
+                                    <div class="clipped-image-pin">                                    	
+                                        <div class="clipped-image">
+                                            <img src="images/about.jpg" alt="Image Title">
+                                            <div class="content-video-wrapper">
+                                                <video loop muted playsinline class="bgvid">
+                                                    <source src="images/ab.mp4" type="video/mp4">
+                                                </video>
+                                            </div>
+                                            <div class="clipped-image-gradient"></div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="clipped-image-content text-align-center content-full-width">
+                                        <div class="title-moving-outer">
+                                            <h2 class="big-title title-moving-backward"><em>The wise choice </em>DIGITALBOX<em> Le sage choix</em> DIGITALBOX </h2>
+                                        </div>
+                                        
+                                        <div class="title-moving-outer">
+                                            <h2 class="big-title title-moving-forward"><em>Engageant</em> Stratégique <em>Innovant</em> Persuasif</h2>
+                                        </div>
+                                    </div>
+                                
+                                </div>
+                                
+                            </div> 
+                            <!--/Row -->
+                            
+                            
+                            <!-- Row -->
+                            <div class="content-row dark-section" data-bgcolor="#0c0c0c">
+                                
+                               <div class="one_fourth">
+                                    <p class="has-mask-fill no-margins"></p>
+                                </div>
+                                
+                                <div class="one_fourth">
+                                    <p class="has-mask-fill no-margins"></p>
+                                </div>
+                                
+                                <div class="one_half last">                                    
+                                    <p class="has-opacity bigger1">Nous vous proposons une solution révolutionnaire, alliant créativité et efficacité, pour propulser votre entreprise vers de nouveaux sommets. Notre approche corporative, soutenue par des experts en marketing et en technologie, offre une offre complète et abordable pour maximiser votre présence en ligne. Libérez le potentiel de votre marque avec notre solution innovante et peu coûteuse.</p>
+                                </div>
+                                
+                                <hr class="destroy">
+                                
+                                <div class="one_half"></div>
+                                
+                                <div class="one_half last">                                    
+                                <h2 class="number-counter big-title no-margins" data-target="49" data-symbol="%">0</h3>
+                                    <hr class="animated-line has-animation">
+                                    <h4>Moins chere que la concurrence</h4>
+                                </div>
+                                
+                                <hr class="destroy"><hr class="destroy">
+                                
+                                <div class="one_half"></div>
+                                
+                                <div class="one_fourth">                                    
+                                    <h3 class="number-counter no-margins" data-target="15" data-symbol="jours">0</h3>
+                                    <hr class="animated-line has-animation">
+                                    <h6>Délai maximum de livraison</h6>
+                                </div>
+                                
+                                <div class="one_fourth last">                                    
+                                    <h3 class="number-counter no-margins" data-target="200" data-symbol="+">0</h2>
+                                    <hr class="animated-line has-animation">
+                                    <p>Projects Completed</p>
+                                </div>
+                                
+                            </div> 
+                            <!--/Row -->
+                            
+                            
+                            <!-- Row -->
+                            <div class="content-row full row_padding_top row_padding_bottom dark-section" data-bgcolor="#0c0c0c">
+                                
+                                <ul class="team-members-list" data-fx="1">
+                                    <li class="link has-hover-image" data-img="images/team1.jpg">
+                                        <div class="team-member has-animation"><span>Since 2019</span><div><em>Saad</em> Chamchaoui</div><span>Founder / Web designer</span></div>
+                                    </li>
+                                    <li class="link has-hover-image" data-img="images/team2.jpg">
+                                        <div class="team-member has-animation"><span>Since 2020</span><div><em>Khalil</em> Kaab</div><span>Co-founder / Back-end Developer</span></div>
+                                    </li>
+                                    <li class="link has-hover-image" data-img="images/team3.jpg">
+                                        <div class="team-member has-animation"><span>Since 2021</span><div><em>Ismail</em> Chaiq</div><span>Full Stack Developper</span></div>
+                                    </li>
+                                    <li class="link has-hover-image" data-img="images/team4.jpg">
+                                        <div class="team-member has-animation"><span>Since 2021</span><div><em>issam</em> Naili</div><span>Art Director</span></div>
+                                    </li>
+                                    <li class="link has-hover-image" data-img="images/team5.jpg">
+                                        <div class="team-member has-animation"><span>Since 2022</span><div><em>Lahcen</em> Labrini</div><span>Support Guy</span></div>
+                                    </li>
+                                </ul>
+                                
+                            </div> 
+                            <!--/Row -->
+                        
+                        
+                            <!-- Row -->
+                            <div class="content-row row_padding_top row_padding_bottom light-section change-header-color has-clip-path" data-bgcolor="#fff">
+    <hr class="destroy">
+    <hr class="destroy">
+
+    <div class="pinned-section">
+        <div class="pinned-element left">
+            <h3>
+                <em class="has-mask-fill">Nos</em><br>
+                <span class="has-mask-fill">Services</span>
+            </h3>
+        </div>
+
+        <div class="scrolling-element right">
+            <dl class="accordion has-animation">
+                <dt>
+                    <span class="link">
+                        <div>Conception de sites web</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nous créons des sites web étonnants et conviviaux qui laissent une impression durable et favorisent les conversions.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Développement d'applications mobiles</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Notre équipe conçoit des applications mobiles innovantes et riches en fonctionnalités qui répondent aux besoins des utilisateurs modernes.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Solutions de commerce électronique</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nous créons des expériences d'achat en ligne fluides qui permettent aux entreprises d'atteindre les clients du monde entier.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Marketing numérique</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nos campagnes de marketing numérique stratégique aident les entreprises à amplifier leur présence en ligne et à atteindre leurs objectifs de croissance.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Conception d'interface utilisateur (UI/UX)</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nous concevons des interfaces utilisateur intuitives et visuellement attrayantes qui améliorent l'expérience des utilisateurs et simplifient les interactions.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Stratégie de marque</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nos stratèges de marque développent des identités de marque fortes et convaincantes qui résonnent auprès des publics cibles.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Optimisation SEO</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nous optimisons les sites web pour améliorer leur visibilité dans les moteurs de recherche, augmentant ainsi le trafic organique et la visibilité en ligne.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Gestion des médias sociaux</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nos experts en médias sociaux gèrent et créent du contenu engageant, favorisant des connexions significatives avec les publics.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Création de contenu</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Notre équipe créative produit un contenu convaincant et percutant qui raconte l'histoire de votre marque et captive votre audience.</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>Analyse de données</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nous analysons les données pour découvrir des informations précieuses et guider la prise de décision basée sur les données pour la croissance et le succès de l'entreprise.</dd>
+            </dl>
+        </div>
+    </div>
+
+    <hr class="destroy">
+</div>
+                           
+                           
+                            <!-- Row -->
+                            <div class="content-row full row_padding_top row_padding_bottom row_padding_left row_padding_right text-align-center dark-section" data-bgcolor="#0c0c0c">
+                            
+                                <h2><em class="has-mask-fill">Trusted</em><br><span class="has-mask-fill">Collaborators</span></h2>
+                                <p>We develop gorgeous and memorable <br class="destroy"> projects for our clients.</p>
+                                <hr><hr>
+                                
+                                <!-- Clients Table --> 
+                                <ul class="clients-table">                        
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-01.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-02.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-03.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-04.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-05.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-06.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-07.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>
+                                    <li class="link">
+                                        <a target="_blank" href="https://www.clapat.com/"><img src="images/client-08.png" alt="client"></a>
+                                        <div class="overlay"></div>
+                                    </li>                        
+                                </ul>
+                            
+                            </div> 
+                            <!--/Row -->
+                            
+                            
+                            <!-- Row -->
+                            <div class="content-row full row_padding_left row_padding_right text-align-center dark-section" data-bgcolor="#0c0c0c">
+                                
+                                <hr class="destroy">
+                                
+                                <div class="marquee-text-wrapper">
+                                    <h2 class="marquee-text fw big-title no-margins">
+                                        <em>Awards.</em> Recognitions. <em>Achievements.</em> Accomplishments. <em>Awards.</em> Recognitions. <em>Achievements.</em> Accomplishments. 
+                                    </h2>
+                                </div>
+                                <hr><hr><hr class="destroy">
+                                
+                                <!-- Flex Lists --> 
+                                <ul class="flex-lists-wrapper">                                                            
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">Awwwards</span>
+                                        <span class="flex-list-center">Developer Award, Site of the Day, Honorable Mention</span>
+                                        <span class="flex-list-right">x08 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">CSS Design Awards</span>
+                                        <span class="flex-list-center">Website of the Day, Special Kudos</span>
+                                        <span class="flex-list-right">x06 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">Behance</span>
+                                        <span class="flex-list-center">Featured UX/UI and XD Design</span>
+                                        <span class="flex-list-right">x04 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">CSS Light</span>
+                                        <span class="flex-list-center">Featured Website, Featured Design</span>
+                                        <span class="flex-list-right">x12 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">FWA Awards</span>
+                                        <span class="flex-list-center">FWA of the day, FWA of the month</span>
+                                        <span class="flex-list-right">x04 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">One Page Love</span>
+                                        <span class="flex-list-center">Site of the Day</span>
+                                        <span class="flex-list-right">x10 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">SiteInspire</span>
+                                        <span class="flex-list-center">Featured Website</span>
+                                        <span class="flex-list-right">x08 Awards</span>
+                                    </li>
+                                    <li class="flex-list link has-animation">
+                                        <span class="flex-list-left">CSS Winner</span>
+                                        <span class="flex-list-center">Site of the Day, Special Mention</span>
+                                        <span class="flex-list-right">x12 Awards</span>
+                                    </li>                        
+                                </ul>
+                                
+                                <hr class="destroy">
+                            
+                            </div> 
+                            <!--/Row -->
+                            
+                        
+                        </div>
+                        <!--/Main Page Content -->
+                        
+                        
+                        <!-- Page Navigation --> 
+                        <div id="page-nav">
+                            <div class="page-nav-wrap">
+                                <div class="page-nav-caption content-full-width text-align-center">                                 
+                                    <div class="inner">
+                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="SAY HEY" href="contact.html">
+                                            <div class="next-hero-title primary-font-title caption-timeline"><span><em>Let's create</em></span> <span>something great</span> <span>together</span></div>
+                                        </a>
+                                        <div class="next-hero-subtitle caption-timeline"><span>Contact us and let's bring your vision to life</span></div>
+                                    </div>               
+                                </div>
+                            </div>
+                        </div>      
+                        <!--/Page Navigation -->
+                        
+                                
+                    </div>
+                    <!--/Main Content --> 
+                
+                </div>
+                <!--/Main -->
+                
+                <!-- Footer -->
+                <footer class="hidden">        	
+                    <div id="footer-container">
+                        
+                        <div id="backtotop" class="button-wrap left">
+                            <div class="icon-wrap parallax-wrap">
+                                <div class="button-icon parallax-element">
+                                    <i class="fa-solid fa-angle-up"></i>
+                                </div>
+                            </div>
+                            <div class="button-text sticky left"><span data-hover="Back Top">Back Top</span></div> 
+                        </div>
+                        
+                        <div class="footer-middle">
+                            <div class="copyright">2023 © <a class="link" target="_blank" href="https://www.clapat.com/">ClaPat</a>. All rights reserved.</div>
+                        </div>
+                        
+                        <div class="socials-wrap">            	
+                            <div class="socials-icon"><i class="fa-solid fa-share-nodes"></i></div>
+                            <div class="socials-text">Follow Us</div>
+                            <ul class="socials">
+                                <li><span class="parallax-wrap"><a class="parallax-element" href="https://www.dribbble.com/clapat" target="_blank">Db</a></span></li>
+                                <li><span class="parallax-wrap"><a class="parallax-element" href="https://www.twitter.com/clapatdesign" target="_blank">Tw</a></span></li>
+                                <li><span class="parallax-wrap"><a class="parallax-element" href="https://www.behance.com/clapat" target="_blank">Be</a></span></li>
+                                <li><span class="parallax-wrap"><a class="parallax-element" href="https://www.facebook.com/clapat.ro" target="_blank">Fb</a></span></li>
+                                <li><span class="parallax-wrap"><a class="parallax-element" href="https://www.instagram.com/clapat.themes/">In</a></span></li>
+                            </ul>                
+                        </div>
+                        
+                    </div>
+                </footer>
+                <!--/Footer -->
+            Fins
+        
+            </div>
+            <!--/Content Scroll -->
+            
+            
+            <div id="app"></div>
+            
+            
+        </div>    
+        <!--/Page Content -->
+    
+        </div>
+    </main>
+    
+    
+    
+    
+    <div class="cd-cover-layer"></div>
+    <div id="magic-cursor">
+        <div id="ball">
+            <div id="ball-drag-x"></div>
+            <div id="ball-drag-y"></div>
+            <div id="ball-loader"></div>
+        </div>
+    </div>
+    <div id="clone-image">
+        <div class="hero-translate"></div>
+    </div>
+    <div id="rotate-device"></div>
+    
+    
+        
+    <script src="js/jquery.min.js"></script>       
+    <script src="../cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    <script src="../cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
+    <script src="../cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/Flip.min.js"></script>    
+    <script src='../cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js'></script>
+    <script src='../cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js'></script>
+    <script src='../cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.4.0/smooth-scrollbar.js'></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpK1sWi3J3EbUOkF_K4-UHzi285HyFX5M&amp;sensor=false"></script>
+    
+    <script src="js/clapat.js"></script>
+    <script src="js/plugins.js"></script>
+    
+    <script src="js/common.js"></script>
+    <script src="js/contact.js"></script>
+    <script src="js/scripts.js"></script>
+
+
+
+</body>
+
+
+</html>
