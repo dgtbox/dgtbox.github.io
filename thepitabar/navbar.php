@@ -22,7 +22,7 @@
                     <li class="active"><a class="navbar-icon restaurant-icon-19" href="#">Menu</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown menu-img-wrap">
-                        <li class="menu-img"><a href="menu-single.html"><img src="images/menu-food-01.png" alt="" width="88" height="60"><span>Pizzas</span></a></li>
+                        <li class="menu-img"><a href="menu-single.html"><img src="images/menu-food-01.png" alt="" width="88" height="60"><span>pitas</span></a></li>
                         <li class="menu-img"><a href="menu-single.html"><img src="images/menu-food-02.png" alt="" width="88" height="60"><span>Burgers</span></a></li>
                         <li class="menu-img"><a href="menu-single.html"><img src="images/menu-food-03.png" alt="" width="88" height="60"><span>Drinks</span></a></li>
                         <li class="menu-img"><a href="menu-single.html"><img src="images/menu-food-04.png" alt="" width="88" height="60"><span>Tosts</span></a></li>
